@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ankit-tripathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-tripathy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ankittripathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankittripathy" height="30" width="40" /></a>
-<a href="https://twitter.com/x2_ankitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x2_ankitt" height="30" width="40" /></a>
+<a href="https://twitter.com/x2_ankitt" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ftwitter-x-logo&psig=AOvVaw3RgXk9wplI4izRlguXirS0&ust=1749320373329000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCu7qu03Y0DFQAAAAAdAAAAABAL" alt="x2_ankitt" height="30" width="40" /></a>
 <a href="https://instagram.com/x2_ankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x2_ankit" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@XpertenzoYT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xpertenzo" height="30" width="40" /></a>
 
