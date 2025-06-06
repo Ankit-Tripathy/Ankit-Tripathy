@@ -29,7 +29,7 @@
 <p><a href="https://www.buymeacoffee.com/x2ankit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="x2ankit" /></a></p><br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankit-tripathy/ankit-tripathy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankit-tripathy/ankit-tripathy/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ankit-tripathy/ankit-tripathy/output/github-snake.svg" />
 </picture>
