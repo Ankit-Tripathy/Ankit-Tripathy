@@ -27,3 +27,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/x2ankit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="x2ankit" /></a></p><br><br>
+
+
+### 🐍 Watch my GitHub contribution snake
+
+![snake gif](https://github.com/ankit-tripathy/ankit-tripathy/blob/output/github-contribution-grid-snake.svg)
+
+
