@@ -12,7 +12,7 @@
 - 📧 Email ID - **x2ankittripathy@gmail.com**
 - 📄 My Resume [Here](Updating)
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ankit-Tripathy/Ankit-Tripathy/main/assets/coding2.gif" />
+
 <h3 align="left">Stay Connected with Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankit-tripathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-tripathy" height="30" width="40" /></a>
@@ -22,7 +22,7 @@
 <a href="https://www.youtube.com/@XpertenzoYT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xpertenzo" height="30" width="40" /></a>
 
 </p>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ankit-Tripathy/Ankit-Tripathy/main/assets/coding2.gif" />
 <h3 align="left">Personal Skills</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 
