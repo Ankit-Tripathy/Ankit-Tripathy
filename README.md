@@ -12,7 +12,7 @@
 - 📧 Email ID - **x2ankittripathy@gmail.com**
 - 📄 My Resume [Here](Updating)
 
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ankit-Tripathy/Ankit-Tripathy/main/assets/coding2.gif" />
 <h3 align="left">Stay Connected with Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankit-tripathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-tripathy" height="30" width="40" /></a>
